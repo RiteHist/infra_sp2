@@ -30,7 +30,9 @@ http://localhost/redoс
 ## Как запустить проект на локальной машине:
 ### Для Windows:
 Необходимо скачать Git bash и Docker и установить их:
+
 https://gitforwindows.org/
+
 https://www.docker.com/get-started/
 
 Запустите Git bash
