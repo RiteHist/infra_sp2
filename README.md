@@ -65,7 +65,11 @@ git clone git@github.com:RiteHist/infra_sp2.git
 cd infra
 ```
 
-Заполнить файл .env (пример заполнения можно увидеть в файле .env.example)
+Создайте файл .env и заполните его соглано примеру из файла .env.example:
+
+```
+touch .env
+```
 
 Запустить контейнеры через Docker:
 
